@@ -15,6 +15,7 @@ namespace Instrumentos_Musicales
         public Form1()
         {
             InitializeComponent();
+	    //Hola soy Erik Yumi
         }
     }
 }
